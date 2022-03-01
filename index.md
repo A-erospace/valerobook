@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Valero
 
-You can use the [editor on GitHub](https://github.com/A-erospace/valerobook/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Valero is a Roblox aviation community-based technological establishment. We innovate technology to empower everyone. We provide hardware and software to deliver our customers a seamless experience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Product Policy
++ Your license can be revoked any time by Valero Staff, for any given reason.
++ Trying to reverse engineer or leak our products is a ban from all games that use our products and your license will also be removed.
++ Attempting to "leak" our products or giving access to our products to unauthorized personnel can lead to a removal of your license.
++ Removing our credit from the product will result in a revocation of your license.
++ By buying our products, you take full responsibility of keeping it secure. If the product is leaked to a group you work at by you, you will be responsible for the leak.
++ According to our refund policy, refunds are not applicable for any purchase, unless approved by a Valero High Rank.
++ By inserting Valero products in your game, you allow access to Defendr to ban blacklisted people from your game. Exploiters, resellers, leakers and other unwanted people among the Ro-Aviation community are placed on this blacklist.
++ People placed on the Defendr Blacklist are not entitled to any products or services, even if they purchase it.
++ Terms are subjected to change at anytime. Notifications will be sent on changes to the terms.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Privacy Policy
 
-```markdown
-Syntax highlighted code block
+We greatly value the privacy of our customers. This policy applies to everyone using any Valero product(s) and/or service(s).
 
-# Header 1
-## Header 2
-### Header 3
+### What Information do we collect?
+The information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your information.
+When you link your account to our services, we store your Discord ID, ROBLOX ID and the products you own and may ask for your company name, and other minor details.
+### How we use your information?
+We use your information to correctly link and provide services to the correct Roblox account associated to your Discord account. This information is stored by our hub provider (PodTech).
 
-- Bulleted
-- List
+### Support
+Need assistance with a product or have a question? Contact our 24/7 support on our Discord Server
+https://discord.gg/ExCubzW8aq
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/A-erospace/valerobook/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
